@@ -1,0 +1,15 @@
+{
+    "users":{
+        "id 1": {
+            "name" : "Silly",
+            "email": "silly@example.com",
+            "password":"dfgegtgerfweer",
+            "phone": "6384394",
+            "listings":{
+                "id 1":{
+                    "lname":"listing one"
+                }
+            }
+        }
+    }
+}

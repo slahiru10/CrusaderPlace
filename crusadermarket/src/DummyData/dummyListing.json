@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Example Listing 1",
+      "price": 100,
+      "category": "Electronics",
+      "state": "New",
+      "payment": ["Cash", "Accept Venmo"]
+    },
+    {
+      "title": "Example Listing 2",
+      "price": 50,
+      "category": "Furniture",
+      "state": "Used - Good",
+      "payment": ["Cash"]
+    },
+    {
+      "title": "Example Listing 3",
+      "price": 200,
+      "category": "Sports",
+      "state": "Used - Like New",
+      "payment": ["To be discussed"]
+    }
+  ]
+  
